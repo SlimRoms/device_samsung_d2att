@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "SlimRoms/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common"
+  },
+  {
+    "repository": "SlimRoms/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common"
+  },
+  {
+    "repository": "SlimRoms/android_device_samsung_d2-common",
+    "target_path": "device/samsung/d2-common"
+  }
+]
+
