@@ -2,6 +2,7 @@
   {
     "repository": "SlimRoms/device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common"
+    "branch": "jb"
   },
   {
     "repository": "SlimRoms/device_samsung_msm8960-common",
