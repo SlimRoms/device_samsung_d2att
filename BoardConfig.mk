@@ -27,5 +27,5 @@
 -include vendor/samsung/d2gsm/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := d2att,d2lte
+TARGET_OTA_ASSERT_DEVICE := d2att,d2lte,d2tmo
 
